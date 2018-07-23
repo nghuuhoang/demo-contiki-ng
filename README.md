@@ -1,2 +1,4 @@
 # demo-contiki-ng
-demo
+demos
+read remp
+read rssi
